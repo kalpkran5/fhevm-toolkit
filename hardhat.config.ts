@@ -31,5 +31,5 @@ export default config;
 # refactor: reorganized script folders for clarity
 # test: added sample contract test for private counter
 # build: adjusted TypeScript compiler settings
-#
+# chore: added environment examples and node settings
 #
