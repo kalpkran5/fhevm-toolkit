@@ -32,4 +32,4 @@ export default config;
 # test: added sample contract test for private counter
 # build: adjusted TypeScript compiler settings
 # chore: added environment examples and node settings
-#
+# docs: included additional notes about RPC and FHEVM
