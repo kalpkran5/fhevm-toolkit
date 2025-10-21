@@ -28,7 +28,7 @@ export default config;
 # fix: updated hardhat setup for local testing
 # docs: improved README with developer setup instructions
 # style: applied prettier formatting and linting rules
-#
+# refactor: reorganized script folders for clarity
 #
 #
 #
