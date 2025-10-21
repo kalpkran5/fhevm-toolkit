@@ -30,6 +30,6 @@ export default config;
 # style: applied prettier formatting and linting rules
 # refactor: reorganized script folders for clarity
 # test: added sample contract test for private counter
-#
+# build: adjusted TypeScript compiler settings
 #
 #
