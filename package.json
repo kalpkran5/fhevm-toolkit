@@ -1,0 +1,31 @@
+{
+  "name": "hello-fhevm",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zama FHEVM onboarding tutorial: Hardhat + TypeScript starter",
+  "license": "MIT",
+  "scripts": {
+    "build": "hardhat compile",
+    "clean": "hardhat clean",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write .",
+    "typecheck": "tsc --noEmit",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.ts --network zama",
+    "interact": "hardhat run scripts/interact.ts --network zama"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/node": "^20.11.0",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "dotenv": "^16.4.1",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "hardhat": "^2.22.6",
+    "prettier": "^3.3.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
