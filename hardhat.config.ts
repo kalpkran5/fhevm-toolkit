@@ -27,3 +27,9 @@ export default config;
 # chore: upload initial configuration and env templates
 # fix: updated hardhat setup for local testing
 # docs: improved README with developer setup instructions
+# style: applied prettier formatting and linting rules
+#
+#
+#
+#
+#
