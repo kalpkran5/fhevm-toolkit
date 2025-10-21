@@ -29,7 +29,7 @@ export default config;
 # docs: improved README with developer setup instructions
 # style: applied prettier formatting and linting rules
 # refactor: reorganized script folders for clarity
-#
+# test: added sample contract test for private counter
 #
 #
 #
