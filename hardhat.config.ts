@@ -26,3 +26,4 @@ export default config;
 # feat: added base project structure for FHEVM testing
 # chore: upload initial configuration and env templates
 # fix: updated hardhat setup for local testing
+# docs: improved README with developer setup instructions
