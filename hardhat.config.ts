@@ -24,3 +24,4 @@ const config: HardhatUserConfig = {
 export default config;
 
 # feat: added base project structure for FHEVM testing
+# chore: upload initial configuration and env templates
